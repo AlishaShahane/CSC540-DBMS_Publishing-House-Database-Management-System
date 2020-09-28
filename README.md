@@ -1,11 +1,8 @@
 # Database Management System for Publishing House
-
-## Contributors:
-1. Alisha Shahane (asshahan)
-2. Shruti Kangle (sskangle)
-3. Poorva Kulkarni (pnkulkar)
-
-The project was implemented in Java and uses MariaDB.
+The project implements all functionalities required to operate a Publishing House.
+The design is based on the views of an author, editor, journlaist and publishing house admin.
+The implementation is capable of handling all operation for books and magazines,
+The project is implemented in Java and uses MariaDB.
 
 ## Instructions to Run:
 1. The .sql files provide a databse image and need to be run first-
