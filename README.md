@@ -1,7 +1,7 @@
 # Database Management System for Publishing House
 The project implements all functionalities required to operate a Publishing House.
 The design is based on the views of an author, editor, journlaist and publishing house admin.
-The implementation is capable of handling all operation for books and magazines,
+The implementation is capable of handling all operation for books and magazines.
 The project is implemented in Java and uses MariaDB.
 
 ## Instructions to Run:
